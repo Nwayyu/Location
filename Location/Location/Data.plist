@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>01</string>
+		<key>Name</key>
+		<string>One North</string>
+		<key>Postal Code</key>
+		<string>138647</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>02</string>
+		<key>Name</key>
+		<string>Jurong West St 41</string>
+		<key>Postal Code</key>
+		<string>640471</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>03</string>
+		<key>Name</key>
+		<string>Institute of System Science</string>
+		<key>Postal Code</key>
+		<string>119615</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>04</string>
+		<key>Name</key>
+		<string>Jurong Point</string>
+		<key>Postal Code</key>
+		<string>648886</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>05</string>
+		<key>Name</key>
+		<string>Jurong East Mall</string>
+		<key>Postal Code</key>
+		<string>608549</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>06</string>
+		<key>Name</key>
+		<string>Westgate Mall</string>
+		<key>Postal Code</key>
+		<string>608532</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>07</string>
+		<key>Name</key>
+		<string>Bugis Junction</string>
+		<key>Postal Code</key>
+		<string>188021</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>08</string>
+		<key>Name</key>
+		<string>ION Orchard</string>
+		<key>Postal Code</key>
+		<string>238801</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>09</string>
+		<key>Name</key>
+		<string>Star Vista</string>
+		<key>Postal Code</key>
+		<string>138617</string>
+	</dict>
+</array>
+</plist>
